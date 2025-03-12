@@ -1,4 +1,4 @@
-#Example for pull request
+#Example for pull request.
 
 #Simple Interest Calculator
 
