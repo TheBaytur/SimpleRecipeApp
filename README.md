@@ -1,11 +1,13 @@
 #Example for pull request
 
-# Simple Recipe Application
+#Simple Interest Calculator
 
-My Simple Recipe Application written on Swift for IOS Devices
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
-- Installation
-- Usage
-- Contributing
-- License
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
 
